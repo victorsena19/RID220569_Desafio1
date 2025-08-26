@@ -24,3 +24,6 @@ Os dados do formulário (nome, e-mail e data de criação) são enviados automat
 ├── public/imagem/interiorcasa.png # Imagem para ilustrar
 ├── index.html # Página principal
 └── style.css # Estilos da landing page
+
+## Deploy Netlifly
+-- https://frabjous-cat-62b136.netlify.app/
