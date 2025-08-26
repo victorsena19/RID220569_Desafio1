@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
  width: auto;
  box-sizing: border-box; 
@@ -123,3 +124,130 @@ footer div button{
     background-color: #C07212;
     cursor: pointer;
 }
+=======
+*{
+ width: auto;
+ box-sizing: border-box; 
+ margin: 0;
+ padding: 0; 
+ font-family: "Inter"; 
+}
+
+#titulo{
+    background-color: #303030;
+    height: 475px;
+}
+
+#titulo h1{
+    font-size: 72px;
+    color: #FFFFFF;
+    padding-top: 206px;
+    padding-left: 62px;   
+}
+#titulo h2{
+    font-size: 28px;
+    color: #FFFFFF;
+    padding-top: 20px;
+    padding-left: 62px;   
+}
+
+#informacoes{
+    background-color: #F9F9F9;
+    width: auto;
+    height: 229px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-items: center;
+    justify-content: center;
+}
+
+.texto{
+    margin: auto 0 ;
+    height: 88px;
+    width: 361px;
+}
+
+.texto h3{
+    font-size: 28px;
+}
+
+#container{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+}
+
+#box{
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+#texto-arquiteto{
+    height: 161px;
+    width: 735px;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+
+#texto-arquiteto h1{
+    padding-bottom: 40px;
+}
+#texto-arquiteto p{
+    font-size: 24px;
+}
+
+#imagem{
+    width: auto;
+    padding: 82px 0;
+    margin-right: 54px;
+}
+#imagem img{
+    width: 510px;
+    height: 605px;
+    border-radius: 30px;
+}
+
+footer{
+    height: 638px;
+    background-color: #303030;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+footer div{
+    margin: 30px 0;
+}
+
+footer div input{
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    font-size: 24px;
+    padding: 30px 19px;
+    outline: none;
+}
+
+footer div h1{
+    color: #FFFFFF;
+}
+
+footer div button{
+    margin-top: 15px;
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    color: #FFFFFF;
+    background-color: #C07212;
+    cursor: pointer;
+}
+>>>>>>> 0c039f6 (incluindo pastas com imagem)
